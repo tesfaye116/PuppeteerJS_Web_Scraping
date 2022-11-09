@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tesfaye116/Puppeteer_-Web_Scraping-/issues"
   },
-  "homepage": "https://github.com/tesfaye116/Puppeteer_-Web_Scraping-#readme"
+  "homepage": "https://github.com/tesfaye116/Puppeteer_-Web_Scraping-#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
 }
